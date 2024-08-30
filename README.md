@@ -1,5 +1,7 @@
 # Discuss
 
+[![CI](https://github.com/newmancodes/discuss/actions/workflows/main.yml/badge.svg)](https://github.com/newmancodes/discuss/actions/workflows/main.yml)
+
 When the devcontainer start up you will need to:
 
   * Run `mix deps.get` to install and setup dependencies
