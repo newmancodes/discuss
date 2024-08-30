@@ -1,9 +1,11 @@
 # Discuss
 
-mix deps.get
-mix assets.setup
-mix deps.compile
-mix ecto.create
+When the devcontainer start up you will need to:
+
+  * Run `mix deps.get` to install and setup dependencies
+  * Run `mix assets.setup` - not sure yet, learning :)
+  * Run `mix deps.compile`
+  * Run `mix ecto.create` connect to PostgreSQL and create database
 
 To start your Phoenix server:
 

@@ -3,6 +3,7 @@
         "github.copilot",
         "github.vscode-github-actions",
         "JakeBecker.elixir-ls",
-        "phoenixframework.phoenix"
+        "phoenixframework.phoenix",
+        "ms-azuretools.vscode-docker"
     ]
 }
