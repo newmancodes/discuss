@@ -1,7 +1,7 @@
 FROM mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm
 
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
-    && apt-get -y install --no-install-recommends elixir erlang-dev erlang-xmerl 
+    && apt-get -y install --no-install-recommends elixir erlang erlang-dev erlang-xmerl erlang-dialyzer inotify-tools
 
 USER node
 
