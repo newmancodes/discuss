@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "github.vscode-github-actions",
+        "JakeBecker.elixir-ls",
+        "phoenixframework.phoenix"
+    ]
+}
